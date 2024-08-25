@@ -1,2 +1,2 @@
 # tic-tac-toe-project
-This is tik-tac-toe developed by using javascript
+This is tik-tac-toe Game developed by using HTML, CSS and javascript
